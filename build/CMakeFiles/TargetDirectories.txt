@@ -1,0 +1,3 @@
+/home/ajit/Desktop/rosenbrock/build/CMakeFiles/rebuild_cache.dir
+/home/ajit/Desktop/rosenbrock/build/CMakeFiles/rosenbrock.dir
+/home/ajit/Desktop/rosenbrock/build/CMakeFiles/edit_cache.dir
