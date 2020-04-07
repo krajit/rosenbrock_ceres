@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/ajit/Desktop/rosenbrock/rosenbrock.cc
+/home/ajit/Desktop/rosenbrock_ceres/rosenbrock.cc
 ceres/ceres.h
-/home/ajit/Desktop/rosenbrock/ceres/ceres.h
+/home/ajit/Desktop/rosenbrock_ceres/ceres/ceres.h
 glog/logging.h
-/home/ajit/Desktop/rosenbrock/glog/logging.h
+/home/ajit/Desktop/rosenbrock_ceres/glog/logging.h
 ceres/autodiff_first_order_function.h
-/home/ajit/Desktop/rosenbrock/ceres/autodiff_first_order_function.h
+/home/ajit/Desktop/rosenbrock_ceres/ceres/autodiff_first_order_function.h
 
 /home/ajit/ceres-bin/config/ceres/internal/config.h
 

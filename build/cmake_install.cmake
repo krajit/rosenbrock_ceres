@@ -1,4 +1,4 @@
-# Install script for directory: /home/ajit/Desktop/rosenbrock
+# Install script for directory: /home/ajit/Desktop/rosenbrock_ceres
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/ajit/Desktop/rosenbrock/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/ajit/Desktop/rosenbrock_ceres/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
